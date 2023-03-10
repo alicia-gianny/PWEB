@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>CONHEÇA O ENTROPIA!</title>
+	</head>
+</html>
+<body>
+
+Olá! Este é o grupo ENTROPIA!
+
+</body>
+</html>
